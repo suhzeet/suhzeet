@@ -1,18 +1,15 @@
-<h1 align="center">Hi 👋, I'm Sujit Neupane</h1>
-<h3 align="center">💻 Passionate Web Developer, UI/UX and Graphics Designer</h3>
+# Hi 👋, I'm Sujit Neupane
+💻 A passionate frontend developer and a graphic designer
 
-👨‍🎓 Studying [Computer Science] at the Tribhuvan University, Nepal </br>
+👨‍🎓 Studying [Computer Science](https://www.collegesnepal.com/tribhuvan-university-tu/bsc-csit/) at the Tribhuvan University, Nepal </br>
 📫 How to reach me **sujeetneupane28@gmail.com**
 
+## 🎯 Fun Projects:</br>
+[Omnifood](https://omnifood-suhzeet.netlify.app/) : Your ultimate destination for personalized nutrition. From tailored meal plans to seamless online ordering, we cater to your dietary needs with precision and convenience.
 
-## ⚡ Fun Projects:</br>
-[Omnifood](https://omnifood-suhzeet.netlify.app/)
+[Guess a Number](https://suhzeet.github.io/guess-a-number/) : A thrilling game where you test your intuition against the machine's wits. Can you outsmart the algorithm and guess the mystery number?
 
-[Guess a Number](https://suhzeet.github.io/guess-a-number/)
-
-[Pig Game](https://suhzeet.github.io/roll-a-dice/)
-
-
+[Pig Game](https://suhzeet.github.io/roll-a-dice/) : Roll the dice, take calculated risks, and race to be the first to reach 100 points. With interactive gameplay and competitive spirit, let the dice decide your fate in this addictive pig-themed adventure!
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
