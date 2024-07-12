@@ -5,8 +5,8 @@
 📫 How to reach me **sujeetneupane28@gmail.com**
 
 ### 🏆 Hackathons:
-- **DEERHACK** at Deerwalk College, Kathmandu: A 48-hour coding marathon.
-- **I.S. Hackathon** at KUSOM, Kathmandu: Secured third place with innovative solutions.
+- **I.S. Hackathon** at KUSOM, Kathmandu <b>:</b>  <i>Secured <b>THIRD</b> place with innovative solutions (36-hour).</i>
+- **DEERHACK** at Deerwalk College, Kathmandu <b>:</b> <i>A 48-hour coding marathon.</i>
 
 ## 🎯 Fun Projects:</br>
 [Omnifood](https://omnifood-suhzeet.netlify.app/) : Your ultimate destination for personalized nutrition. From tailored meal plans to seamless online ordering, we cater to your dietary needs with precision and convenience.
