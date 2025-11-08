@@ -5,13 +5,15 @@
 👨‍🎓 Studying [Computer Science](https://www.collegesnepal.com/tribhuvan-university-tu/bsc-csit/) at the Tribhuvan University, Nepal </br>
 📫 How to reach me: [**sujeetneupane28@gmail.com**](https://mail.google.com/mail/?view=cm&fs=1&to=sujeetneupane28@gmail.com)
 
-
+📄 **Visit [Portfolio](https://www.sujitneupane.com.np/)**
 
 ### 🏆 Hackathons:
 - **I.S. Hackathon** at KUSOM, Kathmandu <b>:</b>  <i>Secured <b>THIRD</b> place with innovative solutions (36-hour).</i>
 - **DEERHACK** at Deerwalk College, Kathmandu <b>:</b> <i>A 48-hour coding marathon.</i>
 
 ## 🎯 Fun Projects:</br>
+[SideJobs](https://sidejobs.vercel.app/) : A full-stack MERN platform connecting freelancers with clients. Features secure authentication, dynamic job postings, and a seamless application process.
+
 [Omnifood](https://omnifood-suhzeet.netlify.app/) : Your ultimate destination for personalized nutrition. From tailored meal plans to seamless online ordering, we cater to your dietary needs with precision and convenience.
 
 [Guess a Number](https://suhzeet.github.io/guess-a-number/) : A thrilling game where you test your intuition against the machine's wits. Can you outsmart the algorithm and guess the mystery number?
